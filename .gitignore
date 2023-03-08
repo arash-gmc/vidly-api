@@ -1,0 +1,4 @@
+node_modules/
+test/
+my-logs.log
+logs.log
